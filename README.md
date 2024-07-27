@@ -1,2 +1,2 @@
-# recipe-repository
-Recipe Repository Web Application
+# feast-planner
+Feast Planner Web Application
